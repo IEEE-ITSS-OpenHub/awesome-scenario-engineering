@@ -1,0 +1,51 @@
+---
+papers:
+  - title: "Specification-based Autonomous Driving System Testing"
+    year: 2023
+    venue: "IEEE Transactions on Software Engineering (TSE)"
+    authors: "Yuan Zhou, Yang Sun, Yun Tang, Yuqi Chen, Jun Sun, Christopher M Poskitt, Yang Liu, Zijiang Yang"
+    link: "https://ieeexplore.ieee.org/abstract/document/10064002"
+    tags: [ "coverage", "simulation-based testing", "criticality", "diversity" ]
+
+  - title: "A novel scenario-based testing approach for cooperative-automated driving systems"
+    year: 2023
+    venue: "IEEE SMC (systems, man, and cybernetics)"
+    authors: "Xizhe Zhang, Yuen Kwan Mo, Emil Chodowiec, Yun Tang, Matthew D Higgins, Siddartha Khastgir, Paul Jennings"
+    link: "https://wrap.warwick.ac.uk/176300/"
+    tags: [ "simulation-based testing", "v2x" ]
+
+  - title: "A map-based model-driven testing framework for automated driving systems"
+    year: 2022
+    venue: "Nanyang Technological University"
+    authors: "Yun Tang"
+    link: "https://hdl.handle.net/10356/164257"
+    tags: [ "thesis", "map modeling", "simulation-based testing", "coverage", "apollo", "criticality", "diversity" ]
+
+  - title: "Route coverage testing for autonomous vehicles via map modeling"
+    year: 2021
+    venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+    authors: "Yun Tang, Yuan Zhou, Fenghua Wu, Yang Liu, Jun Sun, Wuling Huang, Gang Wang"
+    link: "https://ieeexplore.ieee.org/abstract/document/9560890"
+    tags: [ "map modeling", "simulation-based testing", "coverage", "apollo", "diversity" ]
+
+  - title: "A survey on scenario-based testing for automated driving systems in high-fidelity simulation"
+    authors: "Ziyuan Zhong, Yun Tang, Yuan Zhou, Vania de Oliveira Neves, Yang Liu, Baishakhi Ray"
+    year: 2021
+    venue: "arXiv"
+    link: "https://arxiv.org/abs/2112.00964"
+    tags: [ "high-fidelity simulation", "survey" ]
+
+  - title: "Collision Avoidance Testing for Autonomous Driving Systems on Complete Maps"
+    year: 2021
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Yun Tang, Yuan Zhou, Yang Liu, Jun Sun, Gang Wang"
+    link: "https://ieeexplore.ieee.org/abstract/document/9575536"
+    tags: [ "collision avoidance", "simulation-based testing", "coverage", "apollo",
+            "criticality", "map modeling" ]
+
+  - title: "Systematic Testing of Autonomous Driving Systems Using Map Topology-Based Scenario Classification"
+    year: 2021
+    venue: "IEEE/ACM International Conference on Automated Software Engineering (ASE)"
+    authors: "Yun Tang, Yuan Zhou, Tianwei Zhang, Fenghua Wu, Yang Liu, Gang Wang"
+    link: "https://ieeexplore.ieee.org/abstract/document/9678735"
+    tags: [ "map modeling", "simulation-based testing", "coverage", "apollo", "criticality", "diversity", "map-modeling" ]
