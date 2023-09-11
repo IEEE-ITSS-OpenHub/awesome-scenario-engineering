@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+authors:
+  - family-names: Tang
+    given-names: Yun
+    orcid: https://orcid.org/0000-0002-6000-6848
+title: "Awesome Scenario Engineering"
+version: 1.0.0
+date-released: 2023-09-12

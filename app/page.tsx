@@ -1,4 +1,4 @@
-import {GithubOutlined} from "@ant-design/icons";
+import {GithubOutlined, MailOutlined} from "@ant-design/icons";
 import {getBaseURL} from "@/common/url.utils";
 
 export default function Home() {
@@ -10,13 +10,22 @@ export default function Home() {
                     Supported by 2023 IEEE YP-ITS Fellowship
                 </p>
                 <div
-                    className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
+                    className="fixed bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t
+                    from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
                     <a
-                        className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
+                        className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0
+                        mr-3"
                         href="https://github.com/IEEE-ITSS-OpenHub/awesome-scenario-engineering"
                         target="_blank"
                         rel="noopener noreferrer">
                         <GithubOutlined/>
+                    </a>
+                    <a
+                        className="pointer-events-none flex place-items-center gap-2 p-8 lg:pointer-events-auto lg:p-0"
+                        href="mailto:yun.tang@warwick.ac.uk"
+                        target="_blank"
+                        rel="noopener noreferrer">
+                        <MailOutlined/>
                     </a>
                 </div>
             </div>
