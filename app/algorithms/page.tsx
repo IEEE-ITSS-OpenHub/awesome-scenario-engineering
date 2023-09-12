@@ -85,7 +85,7 @@ const page: FC<pageProps> = ({}) => {
         <p className={"text-2xl sm:text-2xl md:text-3xl lg:text-4xl my-20"}>Loading ...</p> : <>
             <Input placeholder="Search anything, e.g. 'genetic algorithm, ...'"
                    bordered={false}
-                   className={"text-2xl sm:text-2xl md:text-2xl lg:text-3xl text-center"}
+                   className={"text-2xl sm:text-2xl md:text-2xl lg:text-3xl text-center dark:text-slate-300"}
                    onChange={onSearch}/>
             <Divider/>
             <div className={"flex-col"}>

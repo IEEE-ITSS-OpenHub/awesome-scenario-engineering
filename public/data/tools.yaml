@@ -14,3 +14,18 @@ tools:
     link: "https://ntutangyun.github.io/point-cloud-viewer/"
     description: "A simple point cloud viewer based on Three.js."
     tags: [ "point cloud", "three.js" ]
+
+  - title: "ASAM OpenSCENARIO"
+    link: "https://www.asam.net/standards/detail/openscenario/"
+    description: "ASAM OpenSCENARIO defines a file format for the description of the dynamic content of driving and traffic simulators."
+    tags: [ "scenario description language" ]
+
+  - title: "ASAM OpenDRIVE"
+    link: "https://www.asam.net/standards/detail/opendrive/"
+    description: "The ASAM OpenDRIVE format provides a common base for describing road networks with extensible markup language (XML) syntax, using the file extension xodr."
+    tags: [ "map description language" ]
+
+  - title: "SDL"
+    link: "https://docs.safetypooldb.ai/docs/sdl"
+    description: "SDL - developed by WMG, University of Warwick, as the preferred language for defining scenarios within the Safety Pool database (https://www.safetypool.ai/database)."
+    tags: [ "scenario description language" ]
