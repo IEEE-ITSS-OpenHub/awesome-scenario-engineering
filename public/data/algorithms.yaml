@@ -1,0 +1,7 @@
+---
+algorithms:
+  - title: "Genetic Algorithm"
+    link: "https://en.wikipedia.org/wiki/Genetic_algorithm"
+    description: "Commonly used to search for critical concrete scenarios in simulation-based testing, 
+    where the scenario parameters are modelled as genes for crossover and mutation."
+    tags: [ "optimization", "criticality" ]
