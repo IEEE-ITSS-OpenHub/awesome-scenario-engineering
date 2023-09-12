@@ -83,7 +83,7 @@ const page: FC<pageProps> = ({}) => {
 
     const mainContent = loading ?
         <p className={"text-2xl sm:text-2xl md:text-3xl lg:text-4xl my-20"}>Loading ...</p> : <>
-            <Input placeholder="Search anything, e.g. 'genetic tool, ...'"
+            <Input placeholder="Search anything, e.g. 'record, apollo, ...'"
                    bordered={false}
                    className={"text-2xl sm:text-2xl md:text-2xl lg:text-3xl text-center"}
                    onChange={onSearch}/>
