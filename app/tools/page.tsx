@@ -124,7 +124,7 @@ const page: FC<pageProps> = ({}) => {
             </div>
             <FloatButton.Group shape="square" style={{right: 30}}>
                 <FloatButton icon={<HomeOutlined/>}
-                             href={"/"}/>
+                             href={"https://ieee-itss-openhub.github.io/awesome-scenario-engineering/"}/>
                 <FloatButton icon={<GithubOutlined/>}
                              href={"https://github.com/IEEE-ITSS-OpenHub/awesome-scenario-engineering"}
                              target={"_blank"}/>
