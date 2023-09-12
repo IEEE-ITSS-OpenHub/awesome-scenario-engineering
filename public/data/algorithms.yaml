@@ -5,3 +5,8 @@ algorithms:
     description: "Commonly used to search for critical concrete scenarios in simulation-based testing, 
     where the scenario parameters are modelled as genes for crossover and mutation."
     tags: [ "optimization", "criticality" ]
+
+  - title: "Simulated Annealing"
+    link: "https://en.wikipedia.org/wiki/Simulated_annealing"
+    description: "Commonly used to search for critical scenario parameter combinations in simulation-based testing."
+    tags: [ "optimization", "criticality" ]
