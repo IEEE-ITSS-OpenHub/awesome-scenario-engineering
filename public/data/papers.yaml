@@ -55,4 +55,11 @@ papers:
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
     authors: "Xuan Li, Siyu Teng, Bingzi Liu, Xingyuan Dai, Xiaoxiang Na, Fei-yue Wang"
     link: "https://ieeexplore.ieee.org/abstract/document/10107450"
-    tags: ["scenario generation"]
+    tags: [ "scenario generation" ]
+
+  - title: "From Features Engineering to Scenarios Engineering for Trustworthy AI: I&I, C&C, and V&V"
+    year: 2022
+    venue: "IEEE Intelligent Systems"
+    authors: "Xuan Li, Peijun Ye, Juanjuan Li, Zhongmin Liu, Longbing Cao, Fei-Yue Wang"
+    link: "https://ieeexplore.ieee.org/document/9896801"
+    tags: [ "scenario engineering" ]
