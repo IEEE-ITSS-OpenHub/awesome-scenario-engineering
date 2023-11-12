@@ -69,4 +69,11 @@ papers:
     venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
     authors: "Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao"
     link: "https://ieeexplore.ieee.org/document/10089194"
-    tags: [ "survey", "scenario generation" ]
+    tags: [ "survey", "scenario generation", "criticality" ]
+
+  - title: "Finding Critical Scenarios for Automated Driving Systems: A Systematic Mapping Study"
+    year: 2022
+    venue: "IEEE Transactions on Software Engineering (TSE)"
+    authors: "Xinhai Zhang, Jianbo Tao, Kaige Tan, Martin Törngren, José Manuel Gaspar Sánchez, Muhammad Rusyadi Ramli, Xin Tao, Magnus Gyllenhammar, Franz Wotawa, Naveen Mohan, Mihai Nica, Hermann Felbinger"
+    link: "https://ieeexplore.ieee.org/document/9763411"
+    tags: [ "survey", "scenario generation", "criticality" ]
