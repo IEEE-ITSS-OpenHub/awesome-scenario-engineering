@@ -84,3 +84,10 @@ papers:
     authors: "Qin Xia, Jianli Duan, Feng Gao, Tao Chen, Cai Yang",
     link: "https://www.sae.org/publications/technical-papers/content/2017-01-1992/"
     tags: [ "scenario generation", "complexity", "combinatorial" ]
+
+  - title: "A Test Scenario Automatic Generation Strategy for Intelligent Driving Systems"
+    year: 2019
+    venue: "Hindawi Mathematical Problems in Engineering"
+    authors: "Feng Gao, Jianli Duan, Yingdong He, Zilong Wang"
+    link: "https://www.hindawi.com/journals/mpe/2019/3737486/",
+    tags: [ "scenario generation", "combinatorial", "complexity" ]
