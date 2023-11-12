@@ -105,3 +105,10 @@ papers:
     authors: "Jianli Duan, Feng Gao, Yingdong He"
     link: "https://ieeexplore.ieee.org/document/8985542"
     tags: [ "scenario generation", "combinatorial", "complexity" ]
+
+  - title: "Traffic Sensory Data Classification by Quantifying Scenario Complexity"
+    year: 2018
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Jiajie Wang, Chi Zhang, Yuehu Liu, Qilin Zhang"
+    link: "https://ieeexplore.ieee.org/document/8500669"
+    tags: [ "complexity" ]
