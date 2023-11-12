@@ -77,3 +77,10 @@ papers:
     authors: "Xinhai Zhang, Jianbo Tao, Kaige Tan, Martin Törngren, José Manuel Gaspar Sánchez, Muhammad Rusyadi Ramli, Xin Tao, Magnus Gyllenhammar, Franz Wotawa, Naveen Mohan, Mihai Nica, Hermann Felbinger"
     link: "https://ieeexplore.ieee.org/document/9763411"
     tags: [ "survey", "scenario generation", "criticality" ]
+
+  - title: "Automatic Generation Method of Test Scenario for ADAS Based on Complexity"
+    year: 2017
+    venue: "SAE International"
+    authors: "Qin Xia, Jianli Duan, Feng Gao, Tao Chen, Cai Yang",
+    link: "https://www.sae.org/publications/technical-papers/content/2017-01-1992/"
+    tags: [ "scenario generation", "complexity", "combinatorial" ]
