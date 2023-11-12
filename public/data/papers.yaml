@@ -98,3 +98,10 @@ papers:
     authors: "Qin Xia, Jianli Duan, Feng Gao, Qiuxia Hu, Yingdong He"
     link: "https://link.springer.com/article/10.1007/s12239-018-0072-6"
     tags: [ "scenario generation", "combinatorial", "complexity" ]
+
+  - title: "Test Scenario Generation and Optimization Technology for Intelligent Driving Systems"
+    year: 2020
+    venue: "IEEE Intelligent Transportation Systems Magazine"
+    authors: "Jianli Duan, Feng Gao, Yingdong He"
+    link: "https://ieeexplore.ieee.org/document/8985542"
+    tags: [ "scenario generation", "combinatorial", "complexity" ]
