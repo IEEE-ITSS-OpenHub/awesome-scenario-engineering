@@ -63,3 +63,10 @@ papers:
     authors: "Xuan Li, Peijun Ye, Juanjuan Li, Zhongmin Liu, Longbing Cao, Fei-Yue Wang"
     link: "https://ieeexplore.ieee.org/document/9896801"
     tags: [ "scenario engineering" ]
+
+  - title: "A Survey on Safety-Critical Driving Scenario Generation—A Methodological Perspective"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Wenhao Ding, Chejian Xu, Mansur Arief, Haohong Lin, Bo Li, Ding Zhao"
+    link: "https://ieeexplore.ieee.org/document/10089194"
+    tags: [ "survey", "scenario generation" ]
