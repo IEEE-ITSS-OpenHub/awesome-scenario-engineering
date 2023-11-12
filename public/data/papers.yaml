@@ -81,7 +81,7 @@ papers:
   - title: "Automatic Generation Method of Test Scenario for ADAS Based on Complexity"
     year: 2017
     venue: "SAE International"
-    authors: "Qin Xia, Jianli Duan, Feng Gao, Tao Chen, Cai Yang",
+    authors: "Qin Xia, Jianli Duan, Feng Gao, Tao Chen, Cai Yang"
     link: "https://www.sae.org/publications/technical-papers/content/2017-01-1992/"
     tags: [ "scenario generation", "complexity", "combinatorial" ]
 
@@ -89,7 +89,7 @@ papers:
     year: 2019
     venue: "Hindawi Mathematical Problems in Engineering"
     authors: "Feng Gao, Jianli Duan, Yingdong He, Zilong Wang"
-    link: "https://www.hindawi.com/journals/mpe/2019/3737486/",
+    link: "https://www.hindawi.com/journals/mpe/2019/3737486/"
     tags: [ "scenario generation", "combinatorial", "complexity" ]
 
   - title: "Test Scenario Design for Intelligent Driving System Ensuring Coverage and Effectiveness"
