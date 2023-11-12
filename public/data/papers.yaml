@@ -91,3 +91,10 @@ papers:
     authors: "Feng Gao, Jianli Duan, Yingdong He, Zilong Wang"
     link: "https://www.hindawi.com/journals/mpe/2019/3737486/",
     tags: [ "scenario generation", "combinatorial", "complexity" ]
+
+  - title: "Test Scenario Design for Intelligent Driving System Ensuring Coverage and Effectiveness"
+    year: 2018
+    venue: "Springer International Journal of Automotive Engineering"
+    authors: "Qin Xia, Jianli Duan, Feng Gao, Qiuxia Hu, Yingdong He"
+    link: "https://link.springer.com/article/10.1007/s12239-018-0072-6"
+    tags: [ "scenario generation", "combinatorial", "complexity" ]
