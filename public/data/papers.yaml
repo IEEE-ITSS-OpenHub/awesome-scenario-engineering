@@ -140,3 +140,20 @@ papers:
     authors: "George Eskandar, Youssef Farag, Tarun Yenamandra, Daniel Cremers, Karim Guirguis, Bin Yang"
     link: "https://arxiv.org/abs/2305.09602"
     tags: [ "scene generation" ]
+
+  - title: "Automatic map generation for autonomous driving system testing"
+    year: 2022
+    venue: "arXiv"
+    authors: "Yun Tang, Yuan Zhou, Kairui Yang, Ziyuan Zhong, Baishakhi Ray, Yang Liu, Ping Zhang, Junbo Chen"
+    link: "https://arxiv.org/abs/2206.09357"
+    tags: [ "urban map generation" ]
+
+  - title: "FLYOVER: A model-driven method to generate diverse highway interchanges for autonomous vehicle testing"
+    year: 2023
+    venue: "IEEE International Conference on Robotics and Automation (ICRA)"
+    authors: "Yuan Zhou, Gengjie Lin, Yun Tang, Kairui Yang, Wei Jing, Ping Zhang, Junbo Chen, Liang Gong, Yang Liu"
+    link: "https://ieeexplore.ieee.org/document/10160868"
+    tags: [ "highway map generation" ]
+
+
+
