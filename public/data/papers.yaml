@@ -112,3 +112,31 @@ papers:
     authors: "Jiajie Wang, Chi Zhang, Yuehu Liu, Qilin Zhang"
     link: "https://ieeexplore.ieee.org/document/8500669"
     tags: [ "complexity" ]
+
+  - title: "Towards Pragmatic Semantic Image Synthesis for Urban Scenes"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "George Eskandar, Diandian Guo, Karim Guirguis, Bin Yang"
+    link: "https://ieeexplore.ieee.org/abstract/document/10186767"
+    tags: [ "scene generation", "semantic image synthesis" ]
+
+  - title: "RSG-Search: Semantic Traffic Scene Retrieval Using Graph-Based Scene Representation"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Yafu Tian, Alexander Carballo, Ruifeng Li, Kazuya Takeda"
+    link: "https://ieeexplore.ieee.org/document/10186641"
+    tags: [ "scenario query", "semantic graph representation" ]
+
+  - title: "PeSOTIF: a Challenging Visual Dataset for Perception SOTIF Problems in Long-tail Traffic Scenarios"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Liang Peng, Jun Li, Wenbo Shao, Hong Wang"
+    link: "https://ieeexplore.ieee.org/abstract/document/10186651"
+    tags: [ "dataset", "perception" ]
+
+  - title: "Urban-StyleGAN: Learning to Generate and Manipulate Images of Urban Scenes"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "George Eskandar, Youssef Farag, Tarun Yenamandra, Daniel Cremers, Karim Guirguis, Bin Yang"
+    link: "https://arxiv.org/abs/2305.09602"
+    tags: [ "scene generation" ]
