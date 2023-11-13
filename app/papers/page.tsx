@@ -8,6 +8,7 @@ import {getBaseURL} from "@/common/url.utils";
 import {Divider, Input, FloatButton} from 'antd';
 import {GithubOutlined, HomeOutlined} from "@ant-design/icons";
 import {getTextColor} from "@/common/color.utils";
+import drawTextCloud, {TAG_CLOUD_SVG_ID} from "@/common/ui.utils";
 
 interface Paper {
     title: string,
@@ -79,6 +80,32 @@ const page: FC<pageProps> = ({}) => {
         setLoading(false);
     }, [paperList, searchString]);
 
+    useEffect(() => {
+        if (paperList.length === 0) {
+            const svg = document.getElementById(TAG_CLOUD_SVG_ID);
+            if (svg) {
+                svg.innerHTML = "";
+                svg.setAttribute("height", "0");
+            }
+            return;
+        }
+
+        // count the paper tags in the paperList
+        const tagCountMap: Map<string, number> = new Map<string, number>();
+        paperList.forEach(paper => {
+            paper.tags.forEach(tag => {
+                const old_count = tagCountMap.get(tag);
+                if (old_count === undefined) {
+                    tagCountMap.set(tag, 1);
+                } else {
+                    tagCountMap.set(tag, old_count + 1);
+                }
+            })
+        })
+
+        drawTextCloud(tagCountMap);
+    }, [loading, paperList])
+
     const onSearch = (event: React.FormEvent<HTMLInputElement>) => {
         const searchString: string = event.currentTarget.value.trim().toLowerCase();
         console.log(searchString);
@@ -143,6 +170,7 @@ const page: FC<pageProps> = ({}) => {
             <h1 className={"text-slate-900 font-extrabold text-4xl sm:text-5xl lg:text-6xl tracking-tight text-center dark:text-white"}>
                 Papers on Scenario Engineering
             </h1>
+            <svg id={TAG_CLOUD_SVG_ID} height={0}></svg>
             <Divider/>
             {mainContent}
         </main>
