@@ -1,5 +1,19 @@
 ---
 papers:
+  - title: "Development and Testing of Advanced Driver Assistance Systems through Scenario-Based System Engineering"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Xuan Li, Rui Song, Junfeng Fan, Mingyang Liu, Fei-Yue Wang"
+    link: "https://ieeexplore.ieee.org/document/10189094"
+    tags: ["scenario engineering", "clustering", "criticality"]
+
+  - title: "Identifying Critical Test Scenarios for Lane Keeping Assistance System Using Analytic Hierarchy Process and Hierarchical Clustering"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Rui Song, Xuan Li, Xiangmo Zhao, Mingyang Liu, Jianhua Zhou, Fei-Yue Wang"
+    link: "https://ieeexplore.ieee.org/document/10190119"
+    tags: ["scenario clustering", "criticality"]
+
   - title: "Specification-based Autonomous Driving System Testing"
     year: 2023
     venue: "IEEE Transactions on Software Engineering (TSE)"
@@ -154,6 +168,3 @@ papers:
     authors: "Yuan Zhou, Gengjie Lin, Yun Tang, Kairui Yang, Wei Jing, Ping Zhang, Junbo Chen, Liang Gong, Yang Liu"
     link: "https://ieeexplore.ieee.org/document/10160868"
     tags: [ "highway map generation" ]
-
-
-
