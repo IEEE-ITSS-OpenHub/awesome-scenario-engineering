@@ -1,5 +1,12 @@
 ---
 papers:
+  - title: "Open-World Learning for Traffic Scenarios Categorisation"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Lakshman Balasubramanian, Jonas Wurst, Michael Botsch, Ke Deng"
+    link: "https://ieeexplore.ieee.org/document/10078164"
+    tags: [""]
+
   - title: "The AD4CHE Dataset and Its Application in Typical Congestion Scenarios of Traffic Jam Pilot Systems"
     year: 2023
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
