@@ -1,11 +1,40 @@
 ---
 papers:
+  - title: "MetaScenario: A Framework for Driving Scenario Data Description, Storage and Indexing"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Cheng Chang, Dongpu Cao, Long Chen, Kui Su, Kuifeng Su, Yuelong Su, Fei-Yue Wang, Jue Wang, Ping Wang, Junqing Wei, Gansha Wu, Xiangbin Wu, Huile Xu, Nanning Zheng, Li Li"
+    link: "https://ieeexplore.ieee.org/document/9925130"
+    tags: [ "scenario dataset", "scenario query", "scenario indexing" ]
+
+  - title: "Performance Limit Evaluation by Evolution Test With Application to Automatic Parking System"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Feng Gao, Zaidao Han, Junwu Zhou, Yiheng Yang"
+    link: "https://ieeexplore.ieee.org/document/9645203"
+    tags: [ "complexity", "parking" ]
+
+
+  - title: "CACC Simulation Platform Designed for Urban Scenes"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Jia Hu, Shichao Sun, Jintao Lai, Song Wang, Zhijun Chen, Tangzhi Liu"
+    link: "https://ieeexplore.ieee.org/document/10008082"
+    tags: [ "simulation-based testing", "cooperation", "collaboration" ]
+
+  - title: "The OpenCDA Open-Source Ecosystem for Cooperative Driving Automation Research"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Runsheng Xu, Hao Xiang, Xu Han, Xin Xia, Zonglin Meng, Chia-Ju Chen, Camila Correa-Jullian, Jiaqi Ma"
+    link: "https://ieeexplore.ieee.org/document/10045043"
+    tags: [ "cooperation", "collaboration", "simulation-based testing" ]
+
   - title: "Open-World Learning for Traffic Scenarios Categorisation"
     year: 2023
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
     authors: "Lakshman Balasubramanian, Jonas Wurst, Michael Botsch, Ke Deng"
     link: "https://ieeexplore.ieee.org/document/10078164"
-    tags: ["scenario categorisation"]
+    tags: [ "scenario categorisation" ]
 
   - title: "The AD4CHE Dataset and Its Application in Typical Congestion Scenarios of Traffic Jam Pilot Systems"
     year: 2023
