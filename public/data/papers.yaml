@@ -1,5 +1,12 @@
 ---
 papers:
+  - title: "Falsifying Motion Plans of Autonomous Vehicles With Abstractly Specified Traffic Scenarios"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Moritz Klischat, Matthias Althoff"
+    link: "https://ieeexplore.ieee.org/document/9831027"
+    tags: [ "scenario generation" ]
+
   - title: "MetaScenario: A Framework for Driving Scenario Data Description, Storage and Indexing"
     year: 2023
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
