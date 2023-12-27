@@ -1,5 +1,47 @@
 ---
 papers:
+  - title: "Mathematical Definitions of Scene and Scenario for Analysis of Automated Driving Systems in Mixed-Traffic Simulations"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Eleonora Andreotti, Pinar Boyraz, Selpi Selpi"
+    link: "https://ieeexplore.ieee.org/document/9237122"
+    tags: [ "scenario definition" ]
+    
+  - title: "Towards an Ontology for Scenario Definition for the Assessment of Automated Vehicles: An Object-Oriented Framework"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Erwin de Gelder, Jan-Pieter Paardekooper, Arash Khabbaz Saberi, Hala Elrofai, Olaf Op den Camp, Steven Kraines, Jeroen Ploeg, Bart De Schutter"
+    link: "https://ieeexplore.ieee.org/document/9693162"
+    tags: [ "scenario ontology" ]
+
+  - title: "Verification and Validation Methods for Decision-Making and Planning of Automated Vehicles: A Review"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Yining Ma, Chen Sun, Junyi Chen, Dongpu Cao, Lu Xiong"
+    link: "https://ieeexplore.ieee.org/document/9850413"
+    tags: [ "survey" ]
+
+  - title: "Towards Guaranteed Safety Assurance of Automated Driving Systems With Scenario Sampling: An Invariant Set Perspective"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Bowen Weng; Linda Capito; Umit Ozguner; Keith Redmill"
+    link: "https://ieeexplore.ieee.org/document/9556594"
+    tags: [ "scenario sampling", "safety" ]
+
+  - title: "Formal Certification Methods for Automated Vehicle Safety Assessment"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Tong Zhao, Ekim Yurtsever, Joel A. Paulson, Giorgio Rizzoni"
+    link: "https://ieeexplore.ieee.org/document/9768203"
+    tags: [ "certification", "formal methods", "coverage" ]
+
+  - title: "Online Competition of Trajectory Planning for Automated Parking: Benchmarks, Achievements, Learned Lessons, and Future Perspectives"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Bai Li, Lili Fan, Yakun Ouyang, Shiqi Tang, Xiao Wang, Dongpu Cao, Fei-Yue Wang"
+    link: "https://ieeexplore.ieee.org/document/9983499"
+    tags: [ "parking scenario", "benchmark", "competition" ]
+
   - title: "Falsifying Motion Plans of Autonomous Vehicles With Abstractly Specified Traffic Scenarios"
     year: 2023
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
