@@ -1,12 +1,14 @@
 ---
 papers:
-  - title: "Mathematical Definitions of Scene and Scenario for Analysis of Automated Driving Systems in Mixed-Traffic Simulations"
+  - title: "Clustering of Driving Encounter Scenarios Using Connected Vehicle Trajectories"
     year: 2022
+  - title: "Mathematical Definitions of Scene and Scenario for Analysis of Automated Driving Systems in Mixed-Traffic Simulations"
+    year: 2021
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
     authors: "Eleonora Andreotti, Pinar Boyraz, Selpi Selpi"
     link: "https://ieeexplore.ieee.org/document/9237122"
     tags: [ "scenario definition" ]
-    
+
   - title: "Towards an Ontology for Scenario Definition for the Assessment of Automated Vehicles: An Object-Oriented Framework"
     year: 2022
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
