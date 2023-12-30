@@ -1,5 +1,19 @@
 ---
 papers:
+  - title: "Probabilistic Metamodels for an Efficient Characterization of Complex Driving Scenarios"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Max Winkelmann; Mike Kohlhoff; Hadj Hamma Tadjine; Steffen Müller"
+    link: "https://ieeexplore.ieee.org/document/9903286"
+    tags: [ "surrogate model" ]
+
+  - title: "Online Adaptive Generation of Critical Boundary Scenarios for Evaluation of Autonomous Vehicles"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Junjie Zhou; Lin Wang; Xiaofan Wang"
+    link: "https://ieeexplore.ieee.org/document/10056393"
+    tags: [ "complexity" ]
+
   - title: "Functional Testing Scenario Library Generation Framework for Connected and Automated Vehicles"
     year: 2023
     venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
