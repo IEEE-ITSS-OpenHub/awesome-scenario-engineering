@@ -1,7 +1,103 @@
 ---
 papers:
+  - title: "Functional Testing Scenario Library Generation Framework for Connected and Automated Vehicles"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Yu Zhu, Jian Wang, Xinyu Guo, Fanqiang Meng, Tongtao Liu"
+    link: "https://ieeexplore.ieee.org/document/10103222"
+    tags: [ "reinforcement learning" ]
+
+  - title: "A Critical Scenario Search Method for Intelligent Vehicle Testing Based on the Social Cognitive Optimization Algorithm"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Bing Zhu, Yuhang Sun, Jian Zhao, Jiayi Han, Peixing Zhang, Tianxin Fan"
+    link: "https://ieeexplore.ieee.org/document/10113302"
+    tags: [ "critical scenario generation" ]
+
+  - title: "An Adaptive Multi-Fidelity Sampling Framework for Safety Analysis of Connected and Automated Vehicles"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Xianliang Gong, Shuo Feng, Yulin Pan"
+    link: "https://ieeexplore.ieee.org/document/10196365"
+    tags: [ "risk assessment", "importance sampling" ]
+
+  - title: "Evaluation Framework for Electric Vehicle Security Risk Assessment"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Soheil Shirvani, Yaser Baseri, Ali Ghorbani"
+    link: "https://ieeexplore.ieee.org/document/10247152/"
+    tags: [ "security" ]
+
+  - title: "Adaptive Safety Evaluation for Connected and Automated Vehicles With Sparse Control Variates"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Jingxuan Yang, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng"
+    link: "https://ieeexplore.ieee.org/document/10265755"
+    tags: [ "importance sampling", "data-based generation" ]
+
+  - title: "Causal Models to Support Scenario-Based Testing of ADAS"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Robert Maier; Lisa Grabinger; David Urlhart; Jürgen Mottok"
+    link: "https://ieeexplore.ieee.org/document/10268664"
+    tags: [ "scenario causal model" ]
+
+  - title: "An Experiment and Simulation Study on Developing Algorithms for CAVs to Navigate Through Roadworks"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Nicolette Formosa, Mohammed Quddus, Mohit Kumar Singh, Cheuk Ki Man, Craig Morton, Cansu Bahar Masera"
+    link: "https://ieeexplore.ieee.org/document/10287216"
+    tags: [ "roadwork scenario" ]
+
+  - title: "How To Evaluate the Navigation of Autonomous Vehicles Around Pedestrians?"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Maria Kabtoul, Manon Prédhumeau, Anne Spalanzani, Julie Dugdale, Philippe Martinet"
+    link: "https://ieeexplore.ieee.org/document/10292581"
+    tags: [ "free space scenario" ]
+
+  - title: "Accelerated Risk Assessment for Highly Automated Vehicles: Surrogate-Based Monte Carlo Method"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "He Zhang; Jian Sun; Ye Tian"
+    link: "https://ieeexplore.ieee.org/document/10337750"
+    tags: [ "risk assessment", "data-based generation" ]
+
+  - title: "Worst Perception Scenario Search via Recurrent Neural Controller and K-Reciprocal Re-Ranking"
+    year: 2023
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Chi Zhang, Xiaoning Ma, Liheng Xu, Haoang Lu, Le Wang, Yuanqi Su, Yuehu Liu, Li Li"
+    link: "https://ieeexplore.ieee.org/document/10367809"
+    tags: [ "scenario query", "perception" ]
+
+  - title: "Functional Safety Verification for Autonomous UGVs—Methodology Presentation and Implementation on a Full-Scale System"
+    year: 2019
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Daniel Meltz, Hugo Guterman"
+    link: "https://ieeexplore.ieee.org/document/8723533"
+    tags: [ "off-road scenario" ]
+
+  - title: "Test Scenarios Development and Data Collection Methods for the Evaluation of Vehicle Road Departure Prevention Systems"
+    year: 2019
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Dan Shen, Qiang Yi, Lingxi Li, Renran Tian, Stanley Chien, Yaobin Chen, Rini Sherony"
+    link: "https://ieeexplore.ieee.org/document/8725531"
+    tags: [ "scenario identification" ]
+
+  - title: "Requirements-Driven Test Generation for Autonomous Vehicles With Machine Learning Components"
+    year: 2020
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Cumhur Erkan Tuncali, Georgios Fainekos, Danil Prokhorov, Hisahiro Ito, James Kapinski"
+    link: "https://ieeexplore.ieee.org/document/8911483"
+    tags: [ "coverage", "criticality" ]
+
   - title: "Clustering of Driving Encounter Scenarios Using Connected Vehicle Trajectories"
-    year: 2022
+    year: 2020
+    venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
+    authors: "Wenshuo Wang, Aditya Ramesh, Jiacheng Zhu, Jie Li, Ding Zhao"
+    link: "https://ieeexplore.ieee.org/document/8995532"
+    tags: [ "scenario clustering" ]
+
   - title: "Mathematical Definitions of Scene and Scenario for Analysis of Automated Driving Systems in Mixed-Traffic Simulations"
     year: 2021
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
@@ -26,7 +122,7 @@ papers:
   - title: "Towards Guaranteed Safety Assurance of Automated Driving Systems With Scenario Sampling: An Invariant Set Perspective"
     year: 2022
     venue: "IEEE Transactions on Intelligent Vehicles (T-IV)"
-    authors: "Bowen Weng; Linda Capito; Umit Ozguner; Keith Redmill"
+    authors: "Bowen Weng, Linda Capito, Umit Ozguner, Keith Redmill"
     link: "https://ieeexplore.ieee.org/document/9556594"
     tags: [ "scenario sampling", "safety" ]
 
