@@ -1,5 +1,19 @@
 ---
 papers:
+  - title: "Fault Tolerance Analysis of Car-Following Models for Autonomous Vehicles"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Tanveer Awal; Md. Masum Mushfiq; A. B. M. Alim Al Islam"
+    link: "https://ieeexplore.ieee.org/document/9877880"
+    tags: [ "sensor error" ]
+    
+  - title: "TrajGen: Generating Realistic and Diverse Trajectories With Reactive and Feasible Agent Behaviors for Autonomous Driving"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Qichao Zhang; Yinfeng Gao; Yikang Zhang; Youtian Guo; Dawei Ding; Yunpeng Wang; Peng Sun; Dongbin Zhao"
+    link: "https://ieeexplore.ieee.org/document/9889241"
+    tags: [ "reinforcement learning" ]
+
   - title: "Probabilistic Metamodels for an Efficient Characterization of Complex Driving Scenarios"
     year: 2022
     venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
