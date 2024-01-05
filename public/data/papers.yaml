@@ -1,12 +1,187 @@
 ---
 papers:
+  - title: "Assessing safe autonomous vehicle behavior via large scale traffic simulation"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Pradeep Sharma Oruganti; Eeshan Deosthale; Cristhian Lizarazo Jimenez"
+    link: "https://ieeexplore.ieee.org/document/10186531"
+    tags: [ "traffic simulation" ]
+
+  - title: "Procedural Generation of Complex Roundabouts for Autonomous Vehicle Testing"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Zarif Ikram; Golam Md Muktadir; Jim Whitehead"
+    link: "https://ieeexplore.ieee.org/document/10186533"
+    tags: [ "HD map generation" ]
+
+  - title: "How to Evaluate Proving Grounds for Self-Driving? A Quantitative Approach"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Rui Chen; Mansur Arief; Weiyang Zhang; Ding Zhao"
+    link: "https://ieeexplore.ieee.org/document/9094370"
+    tags: [ "proving ground" ]
+
+  - title: "Testing Scenario Library Generation for Connected and Automated Vehicles, Part II: Case Studies"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Shuo Feng; Yiheng Feng; Haowei Sun; Shan Bao; Yi Zhang; Henry X. Liu"
+    link: "https://ieeexplore.ieee.org/document/9086089"
+    tags: [ "scenario library generation", "performance evaluation" ]
+
+  - title: "Testing Scenario Library Generation for Connected and Automated Vehicles, Part I: Methodology"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Shuo Feng; Yiheng Feng; Chunhui Yu; Yi Zhang; Henry X. Liu"
+    link: "https://ieeexplore.ieee.org/document/8998589"
+    tags: [ "scenario library generation", "performance evaluation" ]
+
+  - title: "A Theoretical Foundation of Intelligence Testing and Its Application for Intelligent Vehicles"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Li Li; Nanning Zheng; Fei-Yue Wang"
+    link: "https://ieeexplore.ieee.org/document/9107264"
+    tags: [ "scenario and intelligence" ]
+
+  - title: "Comparative Safety Assessment of Automated Driving Strategies at Highway Merges in Mixed Traffic"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Freddy Antony Mullakkal-Babu; Meng Wang; Bart van Arem, Riender Happee"
+    link: "https://ieeexplore.ieee.org/document/9280362/"
+    tags: [ "merge scenario" ]
+
+  - title: "Test Coverage Index for ADAS/ADS Assessment Based on Various Real-World Information Points"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Takashi Machida; Kazuya Shitaoka"
+    link: "https://ieeexplore.ieee.org/document/9216511"
+    tags: [ "coverage" ]
+
+  - title: "Testing Scenario Library Generation for Connected and Automated Vehicles: An Adaptive Framework"
+    year: 2020
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Shuo Feng; Yiheng Feng; Haowei Sun; Yi Zhang; Henry X. Liu"
+    link: "https://ieeexplore.ieee.org/document/9204818"
+    tags: [ "critical scenario generation" ]
+
+  - title: "Understanding V2V Driving Scenarios Through Traffic Primitives"
+    year: 2020
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Wenshuo Wang; Weiyang Zhang; Jiacheng Zhu; Ding Zhao"
+    link: "https://ieeexplore.ieee.org/document/9184261"
+    tags: [ "scenario clustering" ]
+
+  - title: "Machine-Learning-Based Scenario Identification Using Channel Characteristics in Intelligent Vehicular Communications"
+    year: 2020
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Mi Yang; Bo Ai; Ruisi He; Chao Shen; Miaowen Wen; Chen Huang; Jianzhi Li; Zhangfeng Ma; Liang Chen; Xue Li; Zhangdui Zhong"
+    link: "https://ieeexplore.ieee.org/document/9123691"
+    tags: [ "v2x" ]
+
+  - title: "A Multi-Agent Driving Simulation Approach for Evaluating the Safety Benefits of Connected Vehicles"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Jieun Ko; Jiyong Jang; Cheol Oh"
+    link: "https://ieeexplore.ieee.org/document/9316938"
+    tags: [ "v2x" ]
+
+  - title: "Hazardous Scenario Enhanced Generation for Automated Vehicle Testing Based on Optimization Searching Method"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Bing Zhu; Peixing Zhang; Jian Zhao; Weiwen Deng"
+    link: "https://ieeexplore.ieee.org/document/9394813"
+    tags: [ "critical scenario generation" ]
+
+  - title: "Online Safety Assessment of Automated Vehicles Using Silent Testing"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Cheng Wang; Kai Storms; Hermann Winner"
+    link: "https://ieeexplore.ieee.org/document/9585363"
+    tags: [ "critical scenario segmentation" ]
+
+  - title: "Adversarial Evaluation of Autonomous Vehicles in Lane-Change Scenarios"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Baiming Chen; Xiang Chen; Qiong Wu; Liang Li"
+    link: "https://ieeexplore.ieee.org/document/9468363"
+    tags: [ "reinforcement learning" ]
+
+  - title: "Scenario Parameter Generation Method and Scenario Representativeness Metric for Scenario-Based Assessment of Automated Vehicles"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Erwin de Gelder, Jasper Hof, Eric Cator, Jan-Pieter Paardekooper, Olaf Op den Camp, Jeroen Ploeg, Bart de Schutter"
+    link: "https://ieeexplore.ieee.org/document/9730798"
+    tags: [ "scenario parameterization" ]
+
+  - title: "Scenario-Based Test Automation for Highly Automated Vehicles: A Review and Paving the Way for Systematic Safety Assurance"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Jian Sun; He Zhang; Huajun Zhou; Rongjie Yu; Ye Tian"
+    link: "https://ieeexplore.ieee.org/document/9664429"
+    tags: [ "survey" ]
+
+  - title: "SceGene: Bio-Inspired Traffic Scenario Generation for Autonomous Driving Testing"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Ao Li; Shitao Chen; Liting Sun; Nanning Zheng; Masayoshi Tomizuka, Wei Zhan"
+    link: "https://ieeexplore.ieee.org/document/9662987"
+    tags: [ "scenario mutation" ]
+
+  - title: "Adaptive Design of Experiments for Safety Evaluation of Automated Vehicles"
+    year: 2021
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Jian Sun; Huajun Zhou; Haochen Xi; He Zhang; Ye Tian"
+    link: "https://ieeexplore.ieee.org/document/9635710"
+    tags: [ "scenario generation" ]
+
+  - title: "Physiological Measures of Risk Perception in Highly Automated Driving"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Jaume R. Perello-March, Christopher G. Burns, Stewart A. Birrell, Roger Woodman, Mark T. Elliott"
+    link: "https://ieeexplore.ieee.org/document/9706413"
+    tags: [ "human factor" ]
+
+  - title: "Calibrating and Comparing Autonomous Braking Systems in Motorized-to-Non-Motorized-Vehicle Conflict Scenarios"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Weixuan Zhou; Xuesong Wang"
+    link: "https://ieeexplore.ieee.org/document/9768184"
+    tags: [ "data-based generation" ]
+
+  - title: "An End-to-End Curriculum Learning Approach for Autonomous Driving Scenarios"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Luca Anzalone, Paola Barra, Silvio Barra, Aniello Castiglione, Michele Nappi"
+    link: "https://ieeexplore.ieee.org/document/9782734"
+    tags: [ "scenario curriculum" ]
+
+  - title: "Comprehensive Safety Evaluation of Highly Automated Vehicles at the Roundabout Scenario"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Xinpeng Wang, Songan Zhang, Huei Peng"
+    link: "https://ieeexplore.ieee.org/document/9831031"
+    tags: [ "roundabout scenario", "reinforcement learning" ]
+
+  - title: "Safety Performance Boundary Identification of Highly Automated Vehicles: A Surrogate Model-Based Gradient Descent Searching Approach"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Yiyun Wang; Rongjie Yu; Shuhan Qiu; Jian Sun; Haneen Farah"
+    link: "https://ieeexplore.ieee.org/document/9837787"
+    tags: [ "critical scenario generation" ]
+
+  - title: "A Sensor Fusion-Based GNSS Spoofing Attack Detection Framework for Autonomous Vehicles"
+    year: 2022
+    venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
+    authors: "Sagar Dasgupta; Mizanur Rahman; Mhafuzul Islam; Mashrur Chowdhury"
+    link: "https://ieeexplore.ieee.org/document/9868262"
+    tags: [ "security attack scenario" ]
+
   - title: "Fault Tolerance Analysis of Car-Following Models for Autonomous Vehicles"
     year: 2022
     venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
     authors: "Tanveer Awal; Md. Masum Mushfiq; A. B. M. Alim Al Islam"
     link: "https://ieeexplore.ieee.org/document/9877880"
     tags: [ "sensor error" ]
-    
+
   - title: "TrajGen: Generating Realistic and Diverse Trajectories With Reactive and Feasible Agent Behaviors for Autonomous Driving"
     year: 2022
     venue: "IEEE Transactions on Intelligent Transportation Systems (T-ITS)"
