@@ -1,5 +1,82 @@
 ---
 papers:
+  - title: "Holistic Driving Scenario Concept for Urban Traffic"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Hendrik Weber; Christoph Glasmacher; Michael Schuldes; Nicolas Wagener; Lutz Eckstein"
+    link: "https://ieeexplore.ieee.org/document/10186385"
+    tags: [ "scenario categorization" ]
+
+  - title: "Corner Cases in Data-Driven Automated Driving: Definitions, Properties and Solutions"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Jingxing Zhou; Jürgen Beyerer"
+    link: "https://ieeexplore.ieee.org/document/10186558"
+    tags: [ "scenario categorization" ]
+
+  - title: "Method for Comparison of Surrogate Safety Measures in Multi-Vehicle Scenarios"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Enrico Del Re; Cristina Olaverri-Monreal"
+    link: "https://ieeexplore.ieee.org/document/10186747"
+    tags: [ "criticality" ]
+
+  - title: "A Comprehensive Review on Ontologies for Scenario-based Testing in the Context of Autonomous Driving"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Maximilian Zipfl; Nina Koch; J. Marius Zöllner"
+    link: "https://ieeexplore.ieee.org/document/10186681"
+    tags: [ "scenario parameterization" ]
+
+  - title: "Towards Realistic, Safety-Critical and Complete Test Case Catalogs for Safe Automated Driving in Urban Scenarios"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Silvia Thal; Philip Wallis; Roman Henze; Ryo Hasegawa; Hiroki Nakamura; Sou Kitajima; Genya Abe"
+    link: "https://ieeexplore.ieee.org/document/10186595"
+    tags: [ "scenario generation", "coverage", "criticality" ]
+
+  - title: "1001 Ways of Scenario Generation for Testing of Self-driving Cars: A Survey"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Barbara Schütt; Joshua Ransiek; Thilo Braun; Eric Sax"
+    link: "https://ieeexplore.ieee.org/document/10186735"
+    tags: [ "survey" ]
+
+  - title: "CommonRoad-CriMe: A Toolbox for Criticality Measures of Autonomous Vehicles"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Yuanfei Lin; Matthias Althoff"
+    link: "https://ieeexplore.ieee.org/document/10186673"
+    tags: [ "criticality", "survey" ]
+
+  - title: "Inverse Universal Traffic Quality - a Criticality Metric for Crowded Urban Traffic Scenes"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Barbara Schütt; Maximilian Zipfl; J. Marius Zöllner; Eric Sax"
+    link: "https://ieeexplore.ieee.org/document/10186802"
+    tags: [ "criticality" ]
+
+  - title: "Automatic Disengagement Scenario Reconstruction Based on Urban Test Drives of Automated Vehicles"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Zhijing Zhu; Robin Philipp; Yongqi Zhao; Constanze Hungar; Jürgen Pannek; Falk Howar"
+    link: "https://ieeexplore.ieee.org/document/10186640"
+    tags: [ "data-based generation", "scenario reconstruction" ]
+
+  - title: "(Re)2H2O: Autonomous Driving Scenario Generation via Reversely Regularized Hybrid Offline-and-Online Reinforcement Learning"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Haoyi Niu; Kun Ren; Yizhou Xu; Ziyuan Yang; Yichen Lin; Yi Zhang; Jianming Hu"
+    link: "https://ieeexplore.ieee.org/document/10186559"
+    tags: [ "reinforcement learning" ]
+
+  - title: "STRETCH: Generating Challenging Scenarios for Testing Collision Avoidance Systems"#
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Franz Scheuer; Alessio Gambi; Paolo Arcaini"
+    link: "https://ieeexplore.ieee.org/document/10186634"
+    tags: [ "critical scenario generation" ]
+
   - title: "Assessing safe autonomous vehicle behavior via large scale traffic simulation"
     year: 2023
     venue: "IEEE Intelligent Vehicles Symposium (IV)"
