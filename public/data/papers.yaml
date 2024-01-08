@@ -1,5 +1,26 @@
 ---
 papers:
+  - title: "Vectorized Scenario Description and Motion Prediction for Scenario-Based Testing"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Max Winkelmann; Constantin Vasconi; Steffen Müller"
+    link: "https://ieeexplore.ieee.org/document/10186626"
+    tags: [ "scenario expression" ]
+
+  - title: "Literature Review on Maneuver-Based Scenario Description for Automated Driving Simulations"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Nicole Neis; Juergen Beyerer"
+    link: "https://ieeexplore.ieee.org/document/10186545"
+    tags: [ "survey" ]
+
+  - title: "Deep Learning Highway Traffic Scenario Construction with Trajectory Generators"
+    year: 2023
+    venue: "IEEE Intelligent Vehicles Symposium (IV)"
+    authors: "Anne van der Heide; Chris M. J. Tampère; Mike Nicolai"
+    link: "https://ieeexplore.ieee.org/document/10186614"
+    tags: [ "trajectory generation" ]
+
   - title: "Holistic Driving Scenario Concept for Urban Traffic"
     year: 2023
     venue: "IEEE Intelligent Vehicles Symposium (IV)"
